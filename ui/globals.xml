@@ -1,25 +1,37 @@
 <globals>
-    <api>
-        <!-- Add <enumdefs> here -->
-    </api>
+	<api>
+		<!-- Add <enumdefs> here -->
+	</api>
 
-    <consts>
-        <!-- Add <px>, <int>, <color> etc here -->
-    </consts>
+	<consts>
+		<!-- Add <px>, <int>, <color> etc here -->
+		<color name="butter" value="0xffeecc" help="a butter yellow color" />
+		<color name="daybreak" value="0xff9911" help="mid yellow" />
+		<color name="harvest" value="0xffaa44" help="pale yellow" />
+		<color name="honey" value="0xffcc99" help="off white" />
+		<color name="october-sunset" value="0xff4400" help="bright orange" />
+		<color name="orange" value="0xff7700" help="orange" />
+		<color name="rich-pumpkin" value="0xcc5500" help="rich orange" />
+		<color name="moonlit-violet" value="0x9966ff" help="soft purple" />
+		<color name="blue" value="0x9966ff" help="rich blue" />
+		<color name="butterscotch" value="0xff9966" help="pale orange" />
+		<color name="red" value="0xcf4f4f" help="soft red" />
+		<color name="space-white" value="0xf5f6fa" help="bright white" />
+	</consts>
 
-    <styles>
-        <!-- Add <style> tags here -->
-    </styles>
+	<styles>
+		<!-- Add <style> tags here -->
+	</styles>
 
-    <subjects>
-        <!-- Add <int>, <string>, or <float> subjects here -->
-    </subjects>
+	<subjects>
+		<!-- Add <int>, <string>, or <float> subjects here -->
+	</subjects>
 
-    <images>
-        <!-- Add <file> or <data> tags here -->
-    </images>
+	<images>
+		<!-- Add <file> or <data> tags here -->
+	</images>
 
-    <fonts>
-        <!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
-    </fonts>
+	<fonts>
+		<!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+	</fonts>
 </globals>
